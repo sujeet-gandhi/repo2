@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hihihih
+=======
+hihihihii
+>>>>>>> branch4
 jack and jill
